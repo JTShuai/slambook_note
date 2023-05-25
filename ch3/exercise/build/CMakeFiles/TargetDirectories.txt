@@ -1,0 +1,4 @@
+/home/jiangtao/shuai_ws/slambook/ch3/exercise/build/CMakeFiles/task1.dir
+/home/jiangtao/shuai_ws/slambook/ch3/exercise/build/CMakeFiles/run.dir
+/home/jiangtao/shuai_ws/slambook/ch3/exercise/build/CMakeFiles/edit_cache.dir
+/home/jiangtao/shuai_ws/slambook/ch3/exercise/build/CMakeFiles/rebuild_cache.dir
