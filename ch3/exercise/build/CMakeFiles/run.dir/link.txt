@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/run.dir/run.cpp.o -o run  -Wl,-rpath,/home/jiangtao/shuai_ws/slambook/ch3/exercise/build libtask1.so 

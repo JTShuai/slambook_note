@@ -1,3 +1,0 @@
-/home/jiangtao/shuai_ws/slambook/ch3/useEigen/build/CMakeFiles/eigenMatrix.dir
-/home/jiangtao/shuai_ws/slambook/ch3/useEigen/build/CMakeFiles/edit_cache.dir
-/home/jiangtao/shuai_ws/slambook/ch3/useEigen/build/CMakeFiles/rebuild_cache.dir
