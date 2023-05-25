@@ -10,8 +10,10 @@ include_directories( SYSTEM ${CMAKE_CURRENT_SOURCE_DIR})
 
 # 共享库
 add_library(task1 SHARED task1.cpp )
+add_library(task2 SHARED task2.cpp )
 
 # 添加一个可执行程序，该程序使用了共享库
 add_executable( run run.cpp )
 target_link_libraries( run task1 )
+target_link_libraries( run task2 )
 
