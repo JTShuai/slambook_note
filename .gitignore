@@ -1,3 +1,3 @@
 /3rdparty/
-/ch2/build
-/ch3/build
+build/
+.idea/
